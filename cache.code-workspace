@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../Html css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../java"
+		},
+		{
+			"path": "../JavaScript"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "TitleDeeds",
+				"database": "sql_store",
+				"username": "marvine",
+				"password": "password"
+			}
+		]
+	}
+}
